@@ -69,6 +69,6 @@ Close the app with Da, with Ne the app stays open.
 
 ![](screenshots/close.png)
 
-See code <a href="https://github.com/veronikagregorec/note-app/tree/main/Zapisnik" target="_blank">here</a>
+See code <a href="https://github.com/veronikagregorec/app-note/tree/main/Zapisnik" target="_blank">here</a>
 
 [Back to the top](#wpf-note-app)
